@@ -117,7 +117,7 @@
 }
 
 
-.no-letter-spacing{
+.no-letter-spacing {
   letter-spacing: 0;
 }
 
@@ -152,20 +152,17 @@
   background-color: transparent;
   border: 1px solid #FFFFFF;
   z-index:1;
-  
-
-}
-
-.bet-href {
   text-decoration: none;
   font-size: 22px;
   line-height: 26px;
   text-align: center;
   text-transform: uppercase;
   color: #FFFFFF;
-  z-index:1;
   
+
 }
+
+
 
 .lots {
   padding-top: 180px;
@@ -307,19 +304,28 @@
 .about-section-text {
   padding-top: 136px;
   padding-left: 25px;
-  padding-right: 5px;
+  
+  
 }
 
 .about-text {
   font-size: 20px;
   line-height: 24px;
   color: #000000;
+  padding-bottom: 24px;
+  width:688px;
+  padding-right: 5px;
   
 }
 
-.about-text-padding {
-  padding-bottom: 24px;
+.about-text-2 {
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+  width:693px;
 }
+
+
 
 .footer {
   padding-top: 180px;
@@ -336,8 +342,8 @@
 }
 
 
-.footer-menu{
-  display: flex;
+.footer-menu {
+  display: flex; 
   flex-direction: column;
   width: 350px;
   
