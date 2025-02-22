@@ -1,1 +1,1 @@
-git@github.com:biktmrva04/ono-tebe-nado-fd.git
+https://github.com/biktmrva04/ono-tebe-nado-fd
