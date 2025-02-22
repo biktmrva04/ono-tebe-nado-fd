@@ -1,3 +1,5 @@
+
+/* Стили для заголовка */
 .header {
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
@@ -119,25 +121,6 @@
   letter-spacing: 0;
 }
 
-/* НАДО 
-position: absolute;
-width: 387px;
-height: 115px;
-left: 663px;
-top: 435px;
-
-font-family: 'Raleway';
-font-style: normal;
-font-weight: 700;
-font-size: 100px;
-
-xidentical to box height, or 115px 
-text-align: right;
-letter-spacing: 0.3em;
-text-transform: uppercase;
-
-color: #FFFFFF;
-*/
 
 
 
