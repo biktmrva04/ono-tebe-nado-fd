@@ -112,7 +112,6 @@
 .aligned-text_right {
   align-self: end;
   z-index:1;
-
   letter-spacing: 0.3em;
 }
 
@@ -339,6 +338,7 @@
 .footer-contacts {
   max-width:270px;
   justify-self: start;
+  padding-bottom: 82px;
 }
 
 
